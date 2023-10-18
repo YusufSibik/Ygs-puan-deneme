@@ -1,0 +1,10 @@
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\bin\Debug\Ygs_Puan_Hesaplama.exe.config
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\bin\Debug\Ygs_Puan_Hesaplama.exe
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\bin\Debug\Ygs_Puan_Hesaplama.pdb
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.csproj.AssemblyReference.cache
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.Form1.resources
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.Properties.Resources.resources
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.csproj.GenerateResource.cache
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.exe
+D:\Users\Avanoslu\source\repos\Ygs_Puan_Hesaplama\Ygs_Puan_Hesaplama\obj\Debug\Ygs_Puan_Hesaplama.pdb
